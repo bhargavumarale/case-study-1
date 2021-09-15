@@ -1,0 +1,28 @@
+h2 {
+  padding: 100px;
+}
+
+.img-responsive {
+  border-radius: 20px;
+  width: 200px;
+}
+
+.bob3 {
+  background: grey;
+  width: 500px;
+  border-radius: 15px;
+}
+
+.copy_right_footer {
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+  background-color: yellow;
+  font-family: "Azeret Mono", monospace;
+}
+
+.text_image_and_result {
+  box-shadow: 5px 5px 5px grey;
+  width: fit-content;
+  border-radius: 10px;
+}
